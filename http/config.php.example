@@ -1,0 +1,9 @@
+<?php
+$config = array();
+
+$config['server_tap_key'] = 'change_me';
+$config['server_tap_scheme'] = 'http';
+$config['server_tap_host'] = '127.0.0.1';
+$config['server_tap_port'] = '4567';
+
+return $config;
